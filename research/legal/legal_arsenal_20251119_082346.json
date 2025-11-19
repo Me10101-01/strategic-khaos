@@ -1,0 +1,193 @@
+{
+  "timestamp": "20251119_082346",
+  "total_sources": 22,
+  "results": [
+    {
+      "title": "Jacobsen v. Katzer",
+      "citation": "535 F.3d 1373 (Fed. Cir. 2008)",
+      "court": "U.S. Court of Appeals for the Federal Circuit",
+      "holding": "Open source licenses are enforceable copyright licenses",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/F3/535/1373/490782/",
+      "significance": "Established that GPL and similar licenses have legal teeth",
+      "type": "case_law",
+      "source": "Curated IP Database"
+    },
+    {
+      "title": "Oracle America, Inc. v. Google Inc.",
+      "citation": "141 S. Ct. 1183 (2021)",
+      "court": "U.S. Supreme Court",
+      "holding": "Fair use applies to APIs; Google's use of Java APIs was transformative",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
+      "significance": "Major win for software interoperability and fair use",
+      "type": "case_law",
+      "source": "Curated IP Database"
+    },
+    {
+      "title": "Feist Publications, Inc. v. Rural Telephone Service Co.",
+      "citation": "499 U.S. 340 (1991)",
+      "court": "U.S. Supreme Court",
+      "holding": "Facts are not copyrightable; compilations need originality",
+      "url": "https://supreme.justia.com/cases/federal/us/499/340/",
+      "significance": "Established originality requirement for copyright",
+      "type": "case_law",
+      "source": "Curated IP Database"
+    },
+    {
+      "title": "Golan v. Holder",
+      "citation": "565 U.S. 302 (2012)",
+      "court": "U.S. Supreme Court",
+      "holding": "Congress can restore copyright to public domain works",
+      "url": "https://www.supremecourt.gov/opinions/11pdf/10-545.pdf",
+      "significance": "Important for understanding copyright restoration",
+      "type": "case_law",
+      "source": "Curated IP Database"
+    },
+    {
+      "title": "Community for Creative Non-Violence v. Reid",
+      "citation": "490 U.S. 730 (1989)",
+      "court": "U.S. Supreme Court",
+      "holding": "Work-for-hire doctrine explained; contractor vs employee test",
+      "url": "https://supreme.justia.com/cases/federal/us/490/730/",
+      "significance": "Critical for determining code ownership",
+      "type": "case_law",
+      "source": "Curated IP Database"
+    },
+    {
+      "title": "MAI Systems Corp. v. Peak Computer, Inc.",
+      "citation": "991 F.2d 511 (9th Cir. 1993)",
+      "court": "U.S. Court of Appeals for the Ninth Circuit",
+      "holding": "Loading software into RAM creates a copy under Copyright Act",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/F2/991/511/361451/",
+      "significance": "Defined what constitutes copying in digital context",
+      "type": "case_law",
+      "source": "Curated IP Database"
+    },
+    {
+      "title": "ProCD, Inc. v. Zeidenberg",
+      "citation": "86 F.3d 1447 (7th Cir. 1996)",
+      "court": "U.S. Court of Appeals for the Seventh Circuit",
+      "holding": "Shrinkwrap licenses are enforceable contracts",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/F3/86/1447/499331/",
+      "significance": "Established enforceability of software licenses",
+      "type": "case_law",
+      "source": "Curated IP Database"
+    },
+    {
+      "title": "Apple Computer, Inc. v. Franklin Computer Corp.",
+      "citation": "714 F.2d 1240 (3d Cir. 1983)",
+      "court": "U.S. Court of Appeals for the Third Circuit",
+      "holding": "Software is copyrightable as literary work",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/F2/714/1240/376417/",
+      "significance": "Foundational case for software copyright",
+      "type": "case_law",
+      "source": "Curated IP Database"
+    },
+    {
+      "title": "17 U.S.C. § 102 - Subject matter of copyright",
+      "url": "https://www.law.cornell.edu/uscode/text/17/102",
+      "summary": "Copyright protection subsists in original works of authorship",
+      "relevance": "Foundational copyright statute",
+      "type": "statute",
+      "source": "U.S. Code"
+    },
+    {
+      "title": "17 U.S.C. § 106 - Exclusive rights in copyrighted works",
+      "url": "https://www.law.cornell.edu/uscode/text/17/106",
+      "summary": "Copyright owner has exclusive rights to reproduce, distribute, etc.",
+      "relevance": "Defines what rights you have in your code",
+      "type": "statute",
+      "source": "U.S. Code"
+    },
+    {
+      "title": "17 U.S.C. § 107 - Fair use",
+      "url": "https://www.law.cornell.edu/uscode/text/17/107",
+      "summary": "Fair use is not infringement under certain conditions",
+      "relevance": "Critical defense against infringement claims",
+      "type": "statute",
+      "source": "U.S. Code"
+    },
+    {
+      "title": "17 U.S.C. § 512 - DMCA safe harbor",
+      "url": "https://www.law.cornell.edu/uscode/text/17/512",
+      "summary": "Limits liability for online service providers",
+      "relevance": "Important if hosting user content",
+      "type": "statute",
+      "source": "U.S. Code"
+    },
+    {
+      "title": "15 U.S.C. § 1125(a) - False designation of origin (Lanham Act)",
+      "url": "https://www.law.cornell.edu/uscode/text/15/1125",
+      "summary": "Protects against trademark infringement and false advertising",
+      "relevance": "Use this against copycats misrepresenting origin",
+      "type": "statute",
+      "source": "U.S. Code"
+    },
+    {
+      "title": "18 U.S.C. § 1030 - Computer Fraud and Abuse Act (CFAA)",
+      "url": "https://www.law.cornell.edu/uscode/text/18/1030",
+      "summary": "Criminalizes unauthorized computer access",
+      "relevance": "Protection against hacking/unauthorized access",
+      "type": "statute",
+      "source": "U.S. Code"
+    },
+    {
+      "title": "35 U.S.C. § 101 - Inventions patentable",
+      "url": "https://www.law.cornell.edu/uscode/text/35/101",
+      "summary": "Defines what can be patented",
+      "relevance": "Software patents (contentious but exists)",
+      "type": "statute",
+      "source": "U.S. Code"
+    },
+    {
+      "title": "California Anti-SLAPP statute (Cal. Code Civ. Proc. § 425.16)",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=425.16",
+      "summary": "Protects against meritless lawsuits targeting free speech",
+      "relevance": "Shield against frivolous defamation suits",
+      "type": "statute",
+      "source": "California Law"
+    },
+    {
+      "title": "Uniform Trade Secrets Act (UTSA)",
+      "url": "https://www.law.cornell.edu/wex/uniform_trade_secrets_act",
+      "summary": "State-level protection for trade secrets",
+      "relevance": "Protects non-public aspects of your work",
+      "type": "statute",
+      "source": "Model State Law"
+    },
+    {
+      "title": "Electronic Frontier Foundation (EFF) - Coders' Rights Project",
+      "url": "https://www.eff.org/issues/coders",
+      "summary": "Free legal resources for developers",
+      "type": "resource",
+      "source": "EFF"
+    },
+    {
+      "title": "Software Freedom Law Center",
+      "url": "https://softwarefreedom.org/",
+      "summary": "Legal services for FOSS projects",
+      "type": "resource",
+      "source": "SFLC"
+    },
+    {
+      "title": "GNU GPL Violations - FSF Compliance Lab",
+      "url": "https://www.fsf.org/licensing/licenses/gpl-violation",
+      "summary": "How to enforce GPL",
+      "type": "resource",
+      "source": "FSF"
+    },
+    {
+      "title": "Creative Commons Legal Database",
+      "url": "https://creativecommons.org/about/program-areas/legal-advocacy/",
+      "summary": "CC license enforcement cases",
+      "type": "resource",
+      "source": "Creative Commons"
+    },
+    {
+      "title": "Public Knowledge - Tech Policy",
+      "url": "https://publicknowledge.org/",
+      "summary": "Advocacy for tech freedom",
+      "type": "resource",
+      "source": "Public Knowledge"
+    }
+  ]
+}
