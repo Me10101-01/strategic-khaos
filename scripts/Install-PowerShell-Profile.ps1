@@ -161,18 +161,18 @@ Write-Host ""
 Write-Host "Available Commands:" -ForegroundColor Cyan
 Write-Host "  sk              - Navigate to Strategic Khaos repo" -ForegroundColor White
 Write-Host "  sk-docker       - Run Docker migration tool" -ForegroundColor White
-Write-Host "  sk-fix-dom      - Fix DOM_and_Grok_Love_Forever container" -ForegroundColor White
+Write-Host "  sk-fix-dom      - Fix DOM container" -ForegroundColor White
 Write-Host "  sk-legal        - Run legal research aggregator" -ForegroundColor White
 Write-Host "  ai-paste        - Sanitize secrets before AI paste" -ForegroundColor White
 Write-Host "  cheater-hunt    - Run ExamSoft reconnaissance" -ForegroundColor White
-Write-Host "  ps_neuroops     - Swarm operations (status, deploy, etc.)" -ForegroundColor White
+Write-Host "  ps_neuroops     - Swarm operations" -ForegroundColor White
 Write-Host ""
 Write-Host "Profile Location: $profilePath" -ForegroundColor DarkGray
 Write-Host ""
 
 # Ask to reload profile now
-$reload = Read-Host "Reload PowerShell profile now? (y/n)"
+$reload = Read-Host "Reload PowerShell profile now (y/n)"
 if ($reload -eq 'y') {
     . $profilePath
-    Write-Host "✅ Profile reloaded!" -ForegroundColor Green
+    Write-Host "Profile reloaded successfully!" -ForegroundColor Green
 }
