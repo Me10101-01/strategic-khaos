@@ -1,0 +1,140 @@
+# GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+---
+
+## ADDITIONAL TERMS FOR STRATEGIC KHAOS
+
+**Copyright © 2025 Domenic Garza (DOM_010101)**  
+**Project:** Strategic Khaos  
+**Repository:** https://github.com/Me10101-01/strategic-khaos
+
+### IMPORTANT NOTICE
+
+This software is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)** with the following ADDITIONAL REQUIREMENTS:
+
+### 1. ATTRIBUTION REQUIREMENT
+
+Any use, modification, or distribution of this software MUST include:
+- Clear attribution to the original author: Domenic Garza (DOM_010101)
+- Link to the original repository: https://github.com/Me10101-01/strategic-khaos
+- Preservation of all copyright notices in source files
+- Retention of this LICENSE file in its entirety
+
+**Failure to provide attribution is a violation of this license and constitutes copyright infringement under 17 U.S.C. § 106.**
+
+### 2. NETWORK USE CLAUSE (AGPL-3.0)
+
+If you run a modified version of this software on a server and let users interact with it over a network, you MUST:
+- Make the complete source code available to those users
+- Provide a prominent offer to obtain the source code
+- Include all modifications and derivative works
+
+This includes, but is not limited to:
+- Web services
+- APIs
+- Cloud deployments  
+- SaaS offerings
+- Internal corporate deployments accessible over network
+
+### 3. COMMERCIAL USE EXCEPTION
+
+For commercial use without AGPL-3.0 obligations, contact:
+- Email: [Your contact email]
+- Commercial licensing available for a fee
+
+### 4. TRADEMARK NOTICE
+
+"Strategic Khaos" and "DOM_010101" are trademarks. This license does NOT grant permission to use these trademarks except as required for reasonable and customary attribution.
+
+Specifically:
+- You may NOT market a modified version using the "Strategic Khaos" name
+- You may NOT imply endorsement by the original author
+- You MUST clearly distinguish your fork/modification from the original
+
+### 5. NO WARRANTY
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+See Section 15 and 16 of the AGPL-3.0 for full warranty disclaimer.
+
+### 6. PATENT GRANT
+
+Each contributor grants you a non-exclusive, worldwide, royalty-free patent license under the contributor's essential patent claims, to make, use, sell, offer for sale, import and otherwise run, modify and propagate the contents of its contributor version.
+
+### 7. TERMINATION
+
+Your rights under this license terminate automatically if you violate ANY provision of this license, including but not limited to:
+- Removing or altering copyright notices
+- Failing to provide attribution
+- Failing to release source code when required (AGPL)
+- Unauthorized use of trademarks
+
+Upon termination, you must:
+- Cease all use of the software immediately
+- Destroy all copies in your possession
+- Notify all users that received the software from you
+
+### 8. STATUTORY DAMAGES
+
+In addition to all other remedies available under law, violations of this license may subject you to:
+- Statutory damages under 17 U.S.C. § 504(c): up to $150,000 per work
+- Attorney's fees and costs under 17 U.S.C. § 505
+- Injunctive relief
+- Actual damages and lost profits
+
+### 9. JURISDICTION
+
+Any disputes arising from this license shall be governed by the laws of [Your State], United States, without regard to conflict of law principles.
+
+Exclusive jurisdiction and venue shall be in the courts of [Your County], [Your State].
+
+### 10. SEVERABILITY
+
+If any provision of these additional terms is held invalid or unenforceable, the remaining provisions shall continue in full force and effect, and the invalid provision shall be reformed to the maximum extent permitted by law.
+
+---
+
+## FULL AGPL-3.0 LICENSE TEXT
+
+[The complete AGPL-3.0 license text follows...]
+
+For the full AGPL-3.0 license, see: https://www.gnu.org/licenses/agpl-3.0.html
+
+---
+
+## ENFORCEMENT
+
+Violations of this license should be reported to:
+- GitHub DMCA: copyright@github.com
+- Author: [Your contact]
+- Legal counsel: [If applicable]
+
+We actively monitor for license violations using automated tools and will pursue legal action against infringers.
+
+### PRECEDENT CASES
+
+This license is enforceable under established case law:
+- **Jacobsen v. Katzer**, 535 F.3d 1373 (Fed. Cir. 2008) - Open source licenses are enforceable
+- **MySQL AB v. Progress Software Corp.** - GPL violations constitute copyright infringement
+- **Artifex Software Inc. v. Hancom Inc.** - GPL violations can result in damages
+
+---
+
+## QUESTIONS?
+
+For licensing questions:
+- Open an issue: https://github.com/Me10101-01/strategic-khaos/issues
+- Email: [Your contact]
+- Commercial licensing: [Commercial contact]
+
+---
+
+**By using this software, you agree to all terms of this license.**
+
+**Last Updated:** 2025-11-19  
+**Version:** 1.0
